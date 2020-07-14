@@ -25,6 +25,7 @@ pip install gym
 pip install tensorboardX
 
 
-Running:
+# Running:
+
 python main.py
 
