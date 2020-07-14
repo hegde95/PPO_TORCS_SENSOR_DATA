@@ -17,6 +17,7 @@ sudo make install
 sudo make datainstall
 ```
 3) python dependancies:
+
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 
 pip install gym
